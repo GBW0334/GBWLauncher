@@ -8,6 +8,7 @@ using System.Net;
 using System.Windows.Forms;
 using Gameloop.Vdf.JsonConverter;
 using System.Diagnostics;
+using System.Threading;
 
 namespace GBWLauncher
 {
@@ -156,6 +157,7 @@ namespace GBWLauncher
                         worker.Kill();
                         worker.WaitForExit();
                         worker.Dispose();
+                        Thread.Sleep(2000);
                     }
                     Process.Start("steam://connect/62.122.213.32:27015");
                     Close();

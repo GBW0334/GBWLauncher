@@ -20,8 +20,6 @@ C:\Users\SNICKERS\source\repos\GBWLauncher\GBWLauncher\bin\Release\System.Thread
 C:\Users\SNICKERS\source\repos\GBWLauncher\GBWLauncher\bin\Release\System.ValueTuple.xml
 C:\Users\SNICKERS\source\repos\GBWLauncher\GBWLauncher\obj\Release\GBWLauncher.csproj.AssemblyReference.cache
 C:\Users\SNICKERS\source\repos\GBWLauncher\GBWLauncher\obj\Release\GBWLauncher.csproj.SuggestedBindingRedirects.cache
-C:\Users\SNICKERS\source\repos\GBWLauncher\GBWLauncher\obj\Release\GBWLauncher.HaveInfo.resources
-C:\Users\SNICKERS\source\repos\GBWLauncher\GBWLauncher\obj\Release\GBWLauncher.NoHaveInfo.resources
 C:\Users\SNICKERS\source\repos\GBWLauncher\GBWLauncher\obj\Release\GBWLauncher.StartWindow.resources
 C:\Users\SNICKERS\source\repos\GBWLauncher\GBWLauncher\obj\Release\GBWLauncher.MainPage.resources
 C:\Users\SNICKERS\source\repos\GBWLauncher\GBWLauncher\obj\Release\GBWLauncher.Properties.Resources.resources
@@ -32,3 +30,8 @@ C:\Users\SNICKERS\source\repos\GBWLauncher\GBWLauncher\obj\Release\GBWLauncher.e
 C:\Users\SNICKERS\source\repos\GBWLauncher\GBWLauncher\obj\Release\GBWLauncher.pdb
 C:\Users\SNICKERS\source\repos\GBWLauncher\GBWLauncher\bin\Release\System.Diagnostics.DiagnosticSource.xml
 C:\Users\SNICKERS\source\repos\GBWLauncher\GBWLauncher\obj\Release\GBWLauncher.csproj.Fody.CopyLocal.cache
+C:\Users\SNICKERS\source\repos\GBWLauncher\GBWLauncher\bin\Release\GBWLauncher.exe.manifest
+C:\Users\SNICKERS\source\repos\GBWLauncher\GBWLauncher\bin\Release\GBWLauncher.application
+C:\Users\SNICKERS\source\repos\GBWLauncher\GBWLauncher\obj\Release\GBWLauncher.TrustInfo.xml
+C:\Users\SNICKERS\source\repos\GBWLauncher\GBWLauncher\obj\Release\GBWLauncher.exe.manifest
+C:\Users\SNICKERS\source\repos\GBWLauncher\GBWLauncher\obj\Release\GBWLauncher.application
